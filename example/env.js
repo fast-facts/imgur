@@ -1,5 +1,0 @@
-const env = {
-    "CLIENT_ID": "YOUR-CLIENT-ID",
-    "ACCESS_TOKEN": "YOUR-ACCESS-TOKEN",
-    "ALBUM": "YOUR-ALBUM"
-}
