@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzRabbs/imgur.git"
+    "url": "git+https://github.com/RabbitPlayground/imgur.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ItzRabbs/imgur/issues"
+    "url": "https://github.com/RabbitPlayground/imgur/issues"
   },
-  "homepage": "https://github.com/ItzRabbs/imgur#readme",
+  "homepage": "https://github.com/RabbitPlayground/imgur#readme",
   "keywords": [
     "unicode",
     "ascii",

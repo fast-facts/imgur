@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Unofficial JavaScript library for Imgur with a no-credentials options",
   "main": "index.js",
-  "homepage": "https://github.com/itzrabbs/imgur",
+  "homepage": "https://github.com/RabbitPlayground/imgur",
   "license": "AGPL-3.0-or-later",
   "keywords": [
     "imgur",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/itzrabbs/imgur.git"
+    "url": "git://github.com/RabbitPlayground/imgur.git"
   },
   "engines": {
     "node": ">=14"
