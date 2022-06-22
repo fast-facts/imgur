@@ -10,3 +10,6 @@ updates:
     versioning-strategy: increase
     labels:
       - dependencies
+    ignore:
+      - dependency-name: "execa"
+        version: ">5"
