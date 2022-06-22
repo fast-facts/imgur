@@ -1,6 +1,6 @@
 # imgur-anon
 
-An version of [`imgur`](https://github.com/KenEucker/imgur) without the need to sign in
+A version of [`imgur`](https://github.com/KenEucker/imgur) without the need to sign in
 
 ## Installation
 
