@@ -7,5 +7,5 @@ void (async () => {
 
   console.log(`Imgur version ${version}`);
 
-  await execa(`sed -i s/0.0.0/${version}/g dist/package.json`);
+  await execa(`sed -i s/0.0.0/${version}/g dist/package.json`, { shell: true });
 })();
