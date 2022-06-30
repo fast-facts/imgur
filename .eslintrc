@@ -2,7 +2,8 @@
   "root": true,
   "parser": "@typescript-eslint/parser",
   "plugins": [
-    "@typescript-eslint"
+    "@typescript-eslint",
+    "deprecation"
   ],
   "parserOptions": {
     "project": [
@@ -57,6 +58,7 @@
       {
         "argsIgnorePattern": "^_"
       }
-    ]
+    ],
+    "deprecation/deprecation": "error"
   }
 }
