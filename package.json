@@ -28,7 +28,7 @@
     "imgur": "2.2.0"
   },
   "devDependencies": {
-    "@types/node": "^18.7.3",
+    "@types/node": "^18.7.5",
     "@typescript-eslint/eslint-plugin": "^5.33.0",
     "@typescript-eslint/parser": "^5.33.0",
     "copyfiles": "^2.2.0",
