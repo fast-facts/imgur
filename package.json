@@ -25,7 +25,7 @@
     "twilio"
   ],
   "dependencies": {
-    "imgur": "2.2.0"
+    "imgur": "2.3.0"
   },
   "devDependencies": {
     "@types/node": "^20.2.3",
