@@ -13,3 +13,11 @@ updates:
     ignore:
       - dependency-name: 'execa'
         versions: ['>5']
+    groups:
+      typescript and eslint:
+        patterns:
+          - '*typescript*'
+          - '*eslint*'
+      types:
+        patterns:
+          - '@types/*'
