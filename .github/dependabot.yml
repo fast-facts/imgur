@@ -13,6 +13,8 @@ updates:
     ignore:
       - dependency-name: 'execa'
         versions: ['>5']
+      - dependency-name: 'eslint'
+        versions: ['>=9.0.0']
     groups:
       typescript and eslint:
         patterns:
