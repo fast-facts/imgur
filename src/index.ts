@@ -19,5 +19,5 @@ export function updateImage(...args: ArgumentTypes<ImgurClientType['updateImage'
 export function upload(...args: ArgumentTypes<ImgurClientType['upload']>) { return client.upload(...args); }
 
 type ImgurClientType = InstanceType<typeof ImgurClient>;
-// eslint-disable-next-line @typescript-eslint/ban-types
+// eslint-disable-next-line @typescript-eslint/no-unsafe-function-type
 type ArgumentTypes<F extends Function> = F extends (...args: infer A) => any ? A : never;
