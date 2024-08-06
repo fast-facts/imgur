@@ -30,8 +30,8 @@
   "devDependencies": {
     "@types/node": "^22.1.0",
     "@types/whatwg-url": "^11.0.5",
-    "@typescript-eslint/eslint-plugin": "^8.0.0",
-    "@typescript-eslint/parser": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.1",
+    "@typescript-eslint/parser": "^8.0.1",
     "copyfiles": "^2.2.0",
     "eslint": "^8.57.0",
     "eslint-plugin-deprecation": "^3.0.0",
