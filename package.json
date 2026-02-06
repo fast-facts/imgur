@@ -28,7 +28,7 @@
     "imgur": "^2.5.0"
   },
   "devDependencies": {
-    "@types/node": "^25.2.0",
+    "@types/node": "^25.2.1",
     "@types/whatwg-url": "^13.0.0",
     "copyfiles": "^2.4.1",
     "eslint-config-final": "^1.6.25",
